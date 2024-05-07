@@ -1,4 +1,4 @@
-# webjets
+# Webjets
 a web portal to host online meetings.
 
 <H2>TEAM MEMBERS</H2>
